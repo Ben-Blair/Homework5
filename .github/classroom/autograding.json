@@ -1,0 +1,164 @@
+{
+  "tests": [
+    {
+      "name": "Bear infectingTest",
+      "setup": "",
+      "run": "gradle test --tests \"InstructorBearTest.infectingTest\"",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 2
+    },
+    {
+      "name": "Bear hoppingTest",
+      "setup": "",
+      "run": "gradle test --tests \"InstructorBearTest.hoppingTest\"",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 2
+    },
+    {
+      "name": "Bear turningTest",
+      "setup": "",
+      "run": "gradle test --tests \"InstructorBearTest.turningTest\"",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 2
+    },
+    {
+      "name": "Bear getColorTest",
+      "setup": "",
+      "run": "gradle test --tests \"InstructorBearTest.getColorTest\"",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 2
+    },
+    {
+      "name": "Bear toStringTest",
+      "setup": "",
+      "run": "gradle test --tests \"InstructorBearTest.toStringTest\"",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 2
+    },
+    {
+      "name": "Giant infectingTest",
+      "setup": "",
+      "run": "gradle test --tests \"InstructorGiantTest.infectingTest\"",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 2
+    },
+    {
+      "name": "Giant hoppingTest",
+      "setup": "",
+      "run": "gradle test --tests \"InstructorGiantTest.hoppingTest\"",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 2
+    },
+    {
+      "name": "Giant turningTest",
+      "setup": "",
+      "run": "gradle test --tests \"InstructorGiantTest.turningTest\"",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 2
+    },
+    {
+      "name": "Giant toStringTest",
+      "setup": "",
+      "run": "gradle test --tests \"InstructorGiantTest.toStringTest\"",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 2
+    },
+    {
+      "name": "Giant getColorTest",
+      "setup": "",
+      "run": "gradle test --tests \"InstructorGiantTest.getColorTest\"",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 2
+    },
+    {
+      "name": "Lion infectingTest",
+      "setup": "",
+      "run": "gradle test --tests \"InstructorLionTest.infectingTest\"",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 2
+    },
+    {
+      "name": "Lion turnLeftTest",
+      "setup": "",
+      "run": "gradle test --tests \"InstructorLionTest.turnLeftTest\"",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 2
+    },
+    {
+      "name": "Lion turnRightTest",
+      "setup": "",
+      "run": "gradle test --tests \"InstructorLionTest.turnRightTest\"",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 2
+    },
+    {
+      "name": "Lion hoppingTest",
+      "setup": "",
+      "run": "gradle test --tests \"InstructorLionTest.hoppingTest\"",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 2
+    },
+    {
+      "name": "Lion toStringTest",
+      "setup": "",
+      "run": "gradle test --tests \"InstructorLionTest.toStringTest\"",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 2
+    },
+    {
+      "name": "Lion getColorTest",
+      "setup": "",
+      "run": "gradle test --tests \"InstructorLionTest.getColorTest\"",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 2
+    }
+  ]
+}

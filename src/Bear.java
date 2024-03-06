@@ -1,3 +1,6 @@
+// Ben Blair
+// Chat-GPT used
+
 import java.awt.*;
 
 public class Bear extends Critter {
